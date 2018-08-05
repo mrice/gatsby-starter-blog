@@ -28,8 +28,8 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong>Michael Rice</strong> who lives and works in Los Angeles.{' '}
-          <a href="https://twitter.com/michaelrice">
-            You should follow him on Twitter
+          <a href="http://eepurl.com/dDd9sv" target={"new"}>
+            You should subscribe for email updates too
           </a>.
         </p>
       </div>

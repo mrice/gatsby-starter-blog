@@ -3,9 +3,9 @@ module.exports = {
     title: 'Legal Engineering',
     author: 'Michael Rice',
     description: 'A blog about legal engineering.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'https://legalengineering.blog',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
