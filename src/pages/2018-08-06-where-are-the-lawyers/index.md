@@ -1,6 +1,6 @@
 ---
 title: Where are the lawyers?
-date: "2018-08-06T17:23:057.237Z"
+date: "2018-08-06T17:23:57.237Z"
 ---
 
 I'm at an undisclosed airport in the Pacific Northwest as I write this.  Was working with an organization that deals with lots and lots of money in a highly, highly regulated way.  
