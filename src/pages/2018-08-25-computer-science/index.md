@@ -3,7 +3,7 @@ title: "\"Want to solve the problems computer science is creating in the world?\
 date: "2018-08-25T13:33:10.237Z"
 ---
 
-I'm advocating the industry to consider including the legal engineering role in some development teams.  A recent tweet crossed my feed earlier this week reminding me why.
+I advocate that the industry should consider including the legal engineering role in some development teams.  A recent tweet crossed my feed earlier this week reminding me why.
 
 ![Want to solve the problems computer science is creating in the world?](./blakely-tweet.png)
 
